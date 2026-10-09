@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Cenote Azul", "categoria": "naturaleza", "precio": 350, "cupo": 15, "icono": "🌊" },
+  { "id": 2, "nombre": "Zona arqueológica", "categoria": "cultura", "precio": 480, "cupo": 20, "icono": "🗿" },
+  { "id": 3, "nombre": "Ruta en tirolesa", "categoria": "aventura", "precio": 750, "cupo": 10, "icono": "🌴" },
+  { "id": 4, "nombre": "Reserva de tortugas", "categoria": "naturaleza", "precio": 420, "cupo": 18, "icono": "🐢" },
+  { "id": 5, "nombre": "Comunidad maya", "categoria": "cultura", "precio": 550, "cupo": 12, "icono": "🏛️" },
+  { "id": 6, "nombre": "Kayak en manglar", "categoria": "aventura", "precio": 680, "cupo": 8, "icono": "🛶" },
+  { "id": 7, "nombre": "Paseo en yate", "categoria": "lujo", "precio": 1200, "cupo": 6, "icono": "🛥️" },
+  { "id": 8, "nombre": "Tour gastronómico", "categoria": "gastronomia", "precio": 600, "cupo": 15, "icono": "🍽️" },
+  { "id": 9, "nombre": "Clases de cocina", "categoria": "gastronomia", "precio": 450, "cupo": 10, "icono": "👨‍🍳" },
+  { "id": 10, "nombre": "Spa y relajación", "categoria": "lujo", "precio": 900, "cupo": 8, "icono": "🧖" }
+]
